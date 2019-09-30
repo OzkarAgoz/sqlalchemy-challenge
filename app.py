@@ -1,5 +1,4 @@
 # 1. Import Flask
-from flask import Flask
 from flask import Flask, jsonify
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
